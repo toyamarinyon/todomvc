@@ -10,7 +10,7 @@ const setView = () => todo.controller.setView(document.location.hash);
 
 class Todo {
 	/**
-	 * Init new Todo List!
+	 * Init new Todo List!!
 	 * @param  {string} The name of your list
 	 */
 	constructor(name) {
